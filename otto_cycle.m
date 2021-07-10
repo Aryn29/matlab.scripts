@@ -63,7 +63,3 @@ plot([v1 v4],[p1 p4],'b')
 xlabel('Volume [m^3]')
 ylabel('Pressure [KPa]')
 title('Basic PV-Diagram for Otto Cycle')
-
-
-
-
